@@ -7,7 +7,7 @@
 
 - PyAudio 0.2.11+ since we are using a Microphone. 
 - Python Speech Recognition module : pip install speechrecognition
-- PyAudio : Use the following command for linux userssudo apt-get install python3-pyaudio
+- PyAudio 
 - For Text to Speech : pip install gTTS 
 
 ## Objective
